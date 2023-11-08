@@ -38,3 +38,10 @@ function getMiddle(s) {
 * [Momentum](https://rolling-scopes-school.github.io/awoq-JSFE2021Q3/momentum/) *Analogue of the self-titled Google Chrome extension (JavaScript, HTML5, CSS3)*
 * [Art Quiz](https://rolling-scopes-school.github.io/awoq-JSFE2021Q3/art-quiz/) *SPA quiz on the knowledge of painting masterpieces and their authors (JavaScript, HTML5, CSS3)*
 * [Chritmas Task](https://rolling-scopes-school.github.io/awoq-JSFE2021Q3/christmas-task/) *SPA with filters and drag-and-drop (TypeScript, HTML5, CSS3)*
+
+## Education 
+* National Technical University “Kharkiv Polytechnic Institute”, qualification: Bachelor Degree, Field of Study “Computer science”
+* RS School JS / FRONT-END (2021)
+
+## English 
+Intermediate (B1)
